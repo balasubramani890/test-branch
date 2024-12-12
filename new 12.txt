@@ -7,3 +7,5 @@ server.port
 testing
 
 12345
+test2remote -local
+test2remote - local to remote 
